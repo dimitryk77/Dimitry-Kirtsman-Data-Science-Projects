@@ -6,7 +6,7 @@ The paper investigated the efficacy of LSTM and Transformer models in forecastin
 
 [Link to Paper](https://drive.google.com/file/d/10e6DkH-5imP8fvyy0VzsDP1Vdgy69W49/view?usp=sharing) 
 
-[Link to Code](https://github.com/dimitryk77/Stock_Models_Code/tree/main/Model%20Code)  
+[Link to Code](https://github.com/dimitryk77/Stock_Models/tree/main/Model%20Code)  
 
 <br />
 
