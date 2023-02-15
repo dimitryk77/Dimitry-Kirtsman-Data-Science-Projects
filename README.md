@@ -6,7 +6,7 @@ The paper investigated the efficacy of LSTM and Transformer models in forecastin
 
 **Software:** Python, Keras/Tensorflow
 
-**Methods:** LSTMs, Transformers, Time2Vec, Time series 
+**Methods:** LSTMs, Transformers, Time2Vec, Time series, Cross-validation and Hyperparameter Tunning. 
 
 [Link to Paper](https://drive.google.com/file/d/1AqRlX8aUwSOF8vcj7Sj1nF6uQ17JUnL0/view?usp=sharing) 
 
@@ -18,6 +18,10 @@ The paper investigated the efficacy of LSTM and Transformer models in forecastin
 ### Classification of Cyberbullying Tweets Using LTSM, GRU, CNN and Transformer Models
 The paper explores the efficacy of LSTM, GRU, CNN, and Transformer models for text classification of cyberbullying tweets. The analysis consists of 8 experiments (12 models in all) and utilizes a dataset of more than 47,000 cyberbullying tweets and the Keras library in Python. The experiments start with data cleaning and EDA. The next five experiments utilize cross-validation and hyperparameter tuning to test various structures of LSTMs, GRUs, their bidirectional counterparts, and CNNs. These experiments utilize trained embedding and pre-trained tweet-based GloVe embeddings. The last two experiments involve an attention-based transformer and a pre-trained BERT model. The best model from the analysis is a hyperparameter-tuned attention-based transformer, which obtained an 88.04% accuracy on the test set.
 
+**Software:** Python, Keras/Tensorflow
+
+**Methods:** LSTMs, GRUs, CNNs, Transformers, GloVe Embeddings, Cross-validation and Hyperparameter Tunning.
+
 [Link to Paper](https://drive.google.com/file/d/1Ft7iTyTg9Jyotnvd1fbVv2C8xKdDwdIM/view?usp=sharing) 
 
 [Link to Code](https://github.com/dimitryk77/Cyberbullying-Tweets-Models/tree/main/Model_Code)  
@@ -26,6 +30,10 @@ The paper explores the efficacy of LSTM, GRU, CNN, and Transformer models for te
 
 ### Image Classification Using ANN, CNN, and ResNet50 Neural Network Architectures
 The paper explores the selection of a proper deep neural network architecture, ANN, CNN, or the ResNet50 transfer learning model for image classification. The analysis consists of 7 experiments (12 models in all), utilizing the CIFAR-10 dataset and the Keras library in Python. The experiments start with the analysis of ANNs and CNNs with two and then three hidden layers (convolution/max-pooling layers for CNNs). Next, regularization is introduced for all of the models in the form of dropout and batch normalization. Additional experiments are conducted utilizing hyperparameter tuning to improve performance and data augmentation to further decrease overfitting. The final experiment explores transfer learning using the ResNet50 CNN architecture, which achieved the best CIFAR-10 test set accuracy score of all the models at 86.18%.
+
+**Software:** Python, Keras/Tensorflow
+
+**Methods:** ANNs, CNNs, ResNet50, Transfer Learning, Data Augmentation, Cross-validation and Hyperparameter Tunning. 
 
 [Link to Paper](https://drive.google.com/file/d/1Ft7iTyTg9Jyotnvd1fbVv2C8xKdDwdIM/view?usp=sharing) 
 
