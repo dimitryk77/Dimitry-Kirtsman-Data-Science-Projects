@@ -4,6 +4,10 @@
 ### Forecasting Stock Prices Using LSTM and Transformer Architectures
 The paper investigated the efficacy of LSTM and Transformer models in forecasting one-day ahead stock price returns. In addition, both models used the Time2Vec algorithm as a positional embedding layer. The stocks considered in the analysis were Amazon (AMZN), Intel (INTC), Pfizer (PFE), Proctor & Gamble (PG), and Verizon (VZ). The models used a ten-year time series from October 1, 2012, to September 30, 2022, with price, volume, and a variety of technical indicators serving as the features for each model. Training for all models used a cross-validation design with hyperparameter tuning. RMSE and MAPE were utilized to evaluate price level forecast performance. In addition, binary (up/down) signals were created from the price forecasts and assessed using accuracy and F1-scores. Study results showed no significant performance differences between the two models.
 
+**Software:** Python, Keras/Tensorflow
+
+**Methods:** LSTMs, Transformers, Time2Vec, Time series 
+
 [Link to Paper](https://drive.google.com/file/d/1AqRlX8aUwSOF8vcj7Sj1nF6uQ17JUnL0/view?usp=sharing) 
 
 [Link to Code](https://github.com/dimitryk77/Stock_Models/tree/main/Model%20Code)  
@@ -20,3 +24,11 @@ The paper explores the efficacy of LSTM, GRU, CNN, and Transformer models for te
 
 <br />
 
+### Image Classification Using ANN, CNN, and ResNet50 Neural Network Architectures
+The paper explores the selection of a proper deep neural network architecture, ANN, CNN, or the ResNet50 transfer learning model for image classification. The analysis consists of 7 experiments (12 models in all), utilizing the CIFAR-10 dataset and the Keras library in Python. The experiments start with the analysis of ANNs and CNNs with two and then three hidden layers (convolution/max-pooling layers for CNNs). Next, regularization is introduced for all of the models in the form of dropout and batch normalization. Additional experiments are conducted utilizing hyperparameter tuning to improve performance and data augmentation to further decrease overfitting. The final experiment explores transfer learning using the ResNet50 CNN architecture, which achieved the best CIFAR-10 test set accuracy score of all the models at 86.18%.
+
+[Link to Paper](https://drive.google.com/file/d/1Ft7iTyTg9Jyotnvd1fbVv2C8xKdDwdIM/view?usp=sharing) 
+
+[Link to Code](https://github.com/dimitryk77/Cyberbullying-Tweets-Models/tree/main/Model_Code) 
+
+<br />
