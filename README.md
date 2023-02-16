@@ -35,7 +35,7 @@ The paper explores the selection of a proper deep neural network architecture, A
 
 **Methods:** ANNs, CNNs, ResNet50, Transfer Learning, Data Augmentation, Cross-validation and Hyperparameter Tunning. 
 
-[Link to Paper](https://drive.google.com/file/d/1Ft7iTyTg9Jyotnvd1fbVv2C8xKdDwdIM/view?usp=sharing) 
+[Link to Paper](https://drive.google.com/file/d/1LUuux5frpF5OSHiTokXstBN2hpwAPiC0/view?usp=sharing) 
 
 [Link to Code](https://github.com/dimitryk77/Image-Classification-Models/tree/main/Model%20Code) 
 
