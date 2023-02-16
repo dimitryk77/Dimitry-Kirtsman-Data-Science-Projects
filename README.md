@@ -37,6 +37,6 @@ The paper explores the selection of a proper deep neural network architecture, A
 
 [Link to Paper](https://drive.google.com/file/d/1Ft7iTyTg9Jyotnvd1fbVv2C8xKdDwdIM/view?usp=sharing) 
 
-[Link to Code](https://github.com/dimitryk77/Cyberbullying-Tweets-Models/tree/main/Model_Code) 
+[Link to Code](https://github.com/dimitryk77/Image-Classification-Models/tree/main/Model%20Code) 
 
 <br />
