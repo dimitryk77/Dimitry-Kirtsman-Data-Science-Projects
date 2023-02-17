@@ -50,6 +50,6 @@ The paper explores the efficacy of DBSCAN, Isolation Forest, and Autoencoders in
 
 [Link to Paper](https://drive.google.com/file/d/1kcO_EI4cWE5OUNriBInP8SpqYzTJj_-m/view?usp=sharing) 
 
-[Link to Code](https://github.com/dimitryk77/Image-Classification-Models/tree/main/Model%20Code) 
+[Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
 
 <br />
