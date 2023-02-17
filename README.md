@@ -53,3 +53,17 @@ The paper explores the efficacy of DBSCAN, Isolation Forest, and Autoencoders in
 [Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
 
 <br />
+
+
+Estimating the Number of Medical Office Visits with Count Data Models
+
+### Estimating the Number of Medical Office Visits with Count Data Models
+Count data models are used for dependent variables that involve counts, such as the number of children in a family or the number of international trips a person takes per year. The current analysis applied a variety of count data models to estimate the number of physician office visits by the elderly. The five models used in the analysis were the Poisson regression, the Poisson regression with dispersion, the Negative Binomial regression, the Hurdle regression, and the Zero-Inflated regression. Cross-validation design was utilized to evaluate model performance using a variety of metrics such as BIC, AIC, MSE, and MAE. Patient segment classification analysis was also conducted to determine if the models reached specific business metrics in order to be put into production.
+
+**Software:** R
+
+**Methods:** Poisson regression, Poisson regression with dispersion, Negative Binomial regression, Hurdle regression, Zero-Inflated regression, Cross-validation. 
+
+[Link to Paper](https://drive.google.com/file/d/1A1Oz-2_wlTlrexS97vRK2yfdWPpi6plF/view?usp=sharing) 
+
+[Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
