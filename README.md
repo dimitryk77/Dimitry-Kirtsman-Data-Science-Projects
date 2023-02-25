@@ -67,3 +67,20 @@ Count data models are used for dependent variables that involve counts, such as 
 [Link to Paper](https://drive.google.com/file/d/1A1Oz-2_wlTlrexS97vRK2yfdWPpi6plF/view?usp=sharing) 
 
 [Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
+
+<br />
+
+
+Classification with Random Forests, Extra Trees, XGBoost and Stacked Models
+
+### Classification with Random Forests, Extra Trees, XGBoost and Stacked Models
+The current analysis applied the Random Forests, Extra Trees, XGBoost, and stacked models for classification. Exploratory data analysis was conducted with a variety of new variables created, including one-hot encoded and target-encoded features. The analysis utilized a cross-validation design with hyperparameter tuning. Pipelines were created for both the preprocessing and modeling steps before being utilized by the GridSearchCV algorithm. The models were used to predict survival with data from the Titanic dataset. Unlike the research above, the analysis does not rise to the level of a full-fledged paper. However, it does highlight the ability to implement all of the aforementioned machine learning tools.
+
+**Software:** Python
+
+**Methods:** Random Forests, Extra Trees, XGBoost, Stacked Model, Cross-validation and Hyperparameter Tunning. 
+
+[Link to Paper](https://drive.google.com/file/d/1A1Oz-2_wlTlrexS97vRK2yfdWPpi6plF/view?usp=sharing) 
+
+[Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
+
