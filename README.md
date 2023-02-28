@@ -80,7 +80,7 @@ The current analysis applied the Random Forests, Extra Trees, XGBoost, and stack
 
 **Methods:** Random Forests, Extra Trees, XGBoost, Stacked Model, Cross-validation and Hyperparameter Tunning. 
 
-[Link to Paper](https://drive.google.com/file/d/1A1Oz-2_wlTlrexS97vRK2yfdWPpi6plF/view?usp=sharing) 
+[Link to Paper](https://drive.google.com/file/d/1eukKiXnb2wHiAqozQeN5-Ue2kuTnjK7p/view?usp=sharing) 
 
 [Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
 
