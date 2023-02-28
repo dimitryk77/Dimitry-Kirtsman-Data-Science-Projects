@@ -55,8 +55,6 @@ The paper explores the efficacy of DBSCAN, Isolation Forest, and Autoencoders in
 <br />
 
 
-Estimating the Number of Medical Office Visits with Count Data Models
-
 ### Estimating the Number of Medical Office Visits with Count Data Models
 Count data models are used for dependent variables that involve counts, such as the number of children in a family or the number of international trips a person takes per year. The current analysis applied a variety of count data models to estimate the number of physician office visits by the elderly. The five models used in the analysis were the Poisson regression, the Poisson regression with dispersion, the Negative Binomial regression, the Hurdle regression, and the Zero-Inflated regression. Cross-validation design was utilized to evaluate model performance using a variety of metrics such as BIC, AIC, MSE, and MAE. Patient segment classification analysis was also conducted to determine if the models reached specific business metrics in order to be put into production.
 
@@ -70,8 +68,6 @@ Count data models are used for dependent variables that involve counts, such as 
 
 <br />
 
-
-Classification with Random Forests, Extra Trees, XGBoost and Stacked Models
 
 ### Classification with Random Forests, Extra Trees, XGBoost and Stacked Models
 The analysis applied Random Forests, Extra Trees, XGBoost, and stacked models for classification. Exploratory data analysis was conducted with a variety of new variables created, including one-hot encoded and target-encoded features. The analysis utilized a cross-validation design with hyperparameter tuning. Pipelines were created for both the preprocessing and modeling steps before being utilized by the GridSearchCV algorithm. The models were used to predict survival with data from the Titanic dataset. Unlike the research above, the analysis does not rise to the level of a full-fledged paper. However, it does highlight the ability to implement all of the aforementioned machine learning tools.
