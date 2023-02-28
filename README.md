@@ -64,7 +64,7 @@ Count data models are used for dependent variables that involve counts, such as 
 
 [Link to Paper](https://drive.google.com/file/d/1A1Oz-2_wlTlrexS97vRK2yfdWPpi6plF/view?usp=sharing) 
 
-[Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
+[Link to Code](https://github.com/dimitryk77/Count-Data-Models/tree/main/Model%20Code) 
 
 <br />
 
