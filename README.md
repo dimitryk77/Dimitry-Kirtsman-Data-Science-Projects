@@ -78,5 +78,5 @@ The analysis applied Random Forests, Extra Trees, XGBoost, and stacked models fo
 
 [Link to Paper](https://drive.google.com/file/d/1eukKiXnb2wHiAqozQeN5-Ue2kuTnjK7p/view?usp=sharing) 
 
-[Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
+[Link to Code](https://github.com/dimitryk77/Ensemble_Models/tree/main/Model%20Code) 
 
