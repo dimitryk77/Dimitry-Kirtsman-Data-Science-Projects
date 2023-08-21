@@ -62,7 +62,7 @@ Count data models are used for dependent variables that involve counts, such as 
 
 **Methods:** Poisson regression, Poisson regression with dispersion, Negative Binomial regression, Hurdle regression, Zero-Inflated regression, Cross-validation. 
 
-[Link to Paper](https://drive.google.com/file/d/1A1Oz-2_wlTlrexS97vRK2yfdWPpi6plF/view?usp=sharing) 
+[Link to Paper](https://drive.google.com/file/d/15cBKUZJbgpW1qtGvMDLm3GVPPXkKLcBj/view?usp=sharing) 
 
 [Link to Code](https://github.com/dimitryk77/Count-Data-Models/tree/main/Model%20Code) 
 
