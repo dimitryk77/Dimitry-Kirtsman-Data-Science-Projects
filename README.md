@@ -48,7 +48,7 @@ The paper explores the efficacy of DBSCAN, Isolation Forest, and Autoencoders in
 
 **Methods:** DBSCAN, Isolation Forest, Autoencoders, Anomaly Detection. 
 
-[Link to Paper](https://drive.google.com/file/d/1kcO_EI4cWE5OUNriBInP8SpqYzTJj_-m/view?usp=sharing) 
+[Link to Paper](https://drive.google.com/file/d/1fBd5rWaBaUj7aAlIoP2GofhubaVUnser/view?usp=sharing) 
 
 [Link to Code](https://github.com/dimitryk77/Anomaly-Detection-Models/tree/main/Model%20Code) 
 
@@ -62,7 +62,7 @@ Count data models are used for dependent variables that involve counts, such as 
 
 **Methods:** Poisson regression, Poisson regression with dispersion, Negative Binomial regression, Hurdle regression, Zero-Inflated regression, Cross-validation. 
 
-[Link to Paper](https://drive.google.com/file/d/1fBd5rWaBaUj7aAlIoP2GofhubaVUnser/view?usp=sharing) 
+[Link to Paper](https://drive.google.com/file/d/15cBKUZJbgpW1qtGvMDLm3GVPPXkKLcBj/view?usp=sharing) 
 
 [Link to Code](https://github.com/dimitryk77/Count-Data-Models/tree/main/Model%20Code) 
 
