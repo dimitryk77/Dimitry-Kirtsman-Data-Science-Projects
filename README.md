@@ -15,7 +15,7 @@ The paper investigated the efficacy of LSTM and Transformer models in forecastin
 <br />
 
 
-### Classification of Cyberbullying Tweets Using LTSM, GRU, CNN, and Transformer Models
+### Classification of Cyberbullying Tweets Using LSTM, GRU, CNN, and Transformer Models
 The paper explores the efficacy of LSTM, GRU, CNN, and Transformer models for text classification of cyberbullying tweets. The analysis consists of 8 experiments (12 models in all) and utilizes a dataset of more than 47,000 cyberbullying tweets and the Keras library in Python. The experiments start with data cleaning and EDA. The next five experiments utilize cross-validation and hyperparameter tuning to test various structures of LSTMs, GRUs, their bidirectional counterparts, and CNNs. These experiments utilize trained embedding and pre-trained tweet-based GloVe embeddings. The last two experiments involve an attention-based transformer and a fine-tuned DistilBERT model. The best model from the analysis is the DistilBERT model, which obtained an 89.44% accuracy on the test set.
 
 **Software:** Python, Keras/TensorFlow
