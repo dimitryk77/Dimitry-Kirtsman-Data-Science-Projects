@@ -42,7 +42,7 @@ The paper explores the selection of a proper deep neural network architecture, A
 <br />
 
 ### DBSCAN, Isolation Forest, and Autoencoders for Anomaly Detection of Sales Transaction Data
-The paper explores the efficacy of DBSCAN, Isolation Forest, and Autoencoders in detecting fraudulent sales transactions. The dataset contains variables related to product sales and is comprised of 133,731 train set observations and 15,732 test set observations. Data cleansing and feature creation are first applied to both data sets. Each of the models is then fit on the train set, and predictions of fraud/not fraud are obtained from the test set. Different iterations for each of the models above are tested by varying model parameters. Model performance is then evaluated by comparing the model’s test set predictions of fraud/not fraud versus the actual fraud outcomes using the F1 score.
+The paper explores the efficacy of DBSCAN, Isolation Forest, and Autoencoders in detecting fraudulent sales transactions. The dataset contains variables related to product sales and is comprised of 133,731 train set observations and 15,732 test set observations. Data cleaning and feature creation are first applied to both data sets. Each of the models is then fit on the train set, and predictions of fraud/not fraud are obtained from the test set. Different iterations for each of the models above are tested by varying model parameters. Model performance is then evaluated by comparing the model’s test set predictions of fraud/not fraud versus the actual fraud outcomes using the F1 score.
 
 **Software:** R
 
